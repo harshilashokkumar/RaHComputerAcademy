@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to RaH Computer Academy
 
 You can use the [editor on GitHub](https://github.com/harshilashokkumar/RaHComputerAcademy/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
